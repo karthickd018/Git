@@ -6,3 +6,4 @@ hi this is git
 ## this is bug 2.0
 # this is sub branch of feature branch
 # this is feature 2 branch
+# this is dummy
